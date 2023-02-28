@@ -1,0 +1,9 @@
+vibgyor=[]
+vibgyor.append("violet")
+vibgyor.append("indigo")
+vibgyor.append("blue")
+vibgyor.append("green")
+vibgyor.append("yellow")
+vibgyor.append("orange")
+vibgyor.append("red")
+print(vibgyor)
